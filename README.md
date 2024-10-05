@@ -1,2 +1,0 @@
-# responsiveBlog
-responsive blog website
